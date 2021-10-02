@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himangskalita&show_icons=true&locale=en" alt="ghosling" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himangskalita&" alt="ghosling" /></p>
+
+<p align="center">
+  <img src="https://github.com/himangskalita/himangskalita/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>

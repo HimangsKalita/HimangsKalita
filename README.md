@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/himangskalita" target="blank"><img src="https://img.shields.io/twitter/follow/himangskalita?logo=twitter&style=for-the-badge" alt="ghosling" /></a> </p>
 
-- 🌱 I’m currently learning **Front end development**
+- 🌱 I’m currently learning **Front-end web development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💻 My progress **CSS preprocessor - SASS**
 
 - 👨‍💻 All of my projects are available at [https://himangskalita.github.io/website/](https://himangskalita.github.io/website/)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap 5**
+- 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **himangshuk13@gmail.com**
 

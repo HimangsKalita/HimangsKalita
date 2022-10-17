@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officalghosling@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himangskalita) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/hellocodepur) [![Twitter](https://img.shields.io/twitter/follow/himangskalita?logo=Twitter&style=for-the-badge)](https://twitter.com/himangskalita)
 
 
-### 📈 My stats stats
+### 📈 Coding stats
 <p align="left">
 <a href="https://leetcode.com/Himangskalita/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://www.codechef.com/users/himangskalita" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="codechef-logo"/></a>
@@ -58,10 +58,13 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=himangskalita&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" height="300" width="auto"></img>
 </div>
 
+&nbsp;
+
 ### 💳 Github Profile Summary Card
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himangskalita&theme=github" height="250" width="auto"></img>
 
+&nbsp;
 
 ### 💻 Github Contributions live
 <p align="left">
@@ -71,7 +74,6 @@
 &nbsp;
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 <div align="center">

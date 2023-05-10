@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himangskalita&label=Views&color=blue&style=plastic&style=for-the-badge" alt="profile-views" /> </p>
 
 ## 💫 About Me:
-- 🔭 I’m currently building Frontier.
+- 🔭 I’m currently building [ALPHA](https://github.com/himangsKalita/alpha-placement-website).
 - 💻 Currently learning: Front-end web development.
 - 👯 I’m looking to collaborate on Hackathons.
 - 🤔 I’m looking for help with Web3.
 - 💬 Ask me about web dev or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact The first computer virus was created in 1986.
+- ⚡ Fun fact The first programming language was called FORTRAN.
 
 ### 📫 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officalghosling@gmail.com) 
@@ -37,11 +37,12 @@
 
 &nbsp;
 
-### 👨🏻‍💻 Laptop in use & Favorite Terminal
+### 👨🏻‍💻 Laptop in use & Favorite Code Editor and Terminal
 [![Acer Nitro 5 2019](https://img.shields.io/badge/Windows-acer_nitro_5_2019-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.acer.com/ca-en/laptops/nitro/nitro-5/pdp/NH.Q59AA.002)
 [![Intel i-5 9300H](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i59300h-processor-8m-cache-up-to-4-10-ghz.html)
 [![Nvidia GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-eu/geforce/gaming-laptops/gtx-1650/)
 
+[![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal)
 
 &nbsp;

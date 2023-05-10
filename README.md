@@ -1,13 +1,67 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=himangskalita&label=Views&color=blue&style=plastic&style=for-the-badge" alt="profile-views" /> </p>
+
+
+<!-- Intro  -->
+<h2 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Himangshu Kalita</a></b>
+        </samp>
+</h2>
+
+
+<p align="center"> 
+  <samp>
+    「 I am a frontend Web Developer from <b>India</b> 」
+    <br>
+  </samp>
+</p>
+
+<br/>
+
+<p align="center">
+
+<!--
+ <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+-->
+ <a href="mailto:officalghosling@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://linkedin.com/in/himangskalita" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/himangskalita" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <!-- <a href="https://instagram.com/himangskalita" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a>  -->
+ <!-- <a href="https://facebook.com/himangskalita" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a>  -->
+   <!-- <a href="(https://youtube.com/" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alsiam"  />
+  </a>  -->
+</p>
+
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officalghosling@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himangskalita)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himangskalita)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) -->
+
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Himangshu Kalita</h1>
 <h3 align="center">A Frontend-End Web Developer from India</h3>
+-->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himangskalita&label=Views&color=blue&style=plastic&style=for-the-badge" alt="profile-views" /> </p>
-
-## 💫 About Me:
+### 💫 About Me:
 - 🔭 I’m currently building [ALPHA](https://github.com/himangsKalita/alpha-placement-website).
 - 💻 Currently learning: Front-end web development.
 - 👯 I’m looking to collaborate on Hackathons.
@@ -16,11 +70,7 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact The first programming language was called FORTRAN.
 
-### 📫 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officalghosling@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himangskalita)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himangskalita)
-<!---[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)--->
+<br/>
 
 
 ### 📈 Coding stats
@@ -45,45 +95,47 @@
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://github.com/microsoft/terminal)
 
-&nbsp;
+<br/>
+
+<!-- ### 🛠️ Top Open Source -
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
+
+<p align="left">
+  <a href="https://github.com/himangskalita?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p> -->
+
+<br/>
+
+<div align="center">
+
+#### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<hr/>
+<br/>
 
 ### 📊 GitHub Stats:
-
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=700px src="https://github-profile-trophy.vercel.app/?username=himangskalita" alt="trophy" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himangskalita&show_icons=true&locale=en" alt="ghosling" /></p>
 <div align="left"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangskalita" alt="most-used-lang" /></p></div>
 &nbsp;
-<div align="left" style={><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himangskalita&" alt="ghosling" /></p></div>
-
-<div align="left" style={><p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himangskalita&theme=github" alt="ghosling" /></p></div>
-<div align="center" style={><p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himangskalita&theme=github" alt="ghosling" /></p></div>
-
-&nbsp;
-
-### 📈 Activity Graph     
-<img src="https://activity-graph.herokuapp.com/graph?username=himangskalita&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" height="300" width="auto"></img>
+ 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=vue&hide_border=false&area=true" height="300" width="auto"></img>
 </div>
 
 &nbsp;
-
-### 💳 Github Profile Summary Card
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himangskalita&theme=github" height="250" width="auto"></img>
 
 &nbsp;
 
-### 💻 Github Contributions live
+#### Github Contributions live
 <p align="left">
   <img src="https://github.com/himangskalita/himangskalita/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 &nbsp;
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>

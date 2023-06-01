@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a frontend Web Developer from <b>India</b> 」
+    「 I am a Developer from <b>India</b> 」
     <br>
   </samp>
 </p>
@@ -124,7 +124,7 @@
 <div align="left"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangskalita" alt="most-used-lang" /></p></div>
 &nbsp;
  
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=vue&hide_border=false&area=true" height="300" width="auto"></img>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himangskalita&theme=vue" height="300" width="auto"></img>
 </div>
 
 &nbsp;

@@ -76,6 +76,7 @@
 
 [![Taskio](https://github-readme-stats.vercel.app/api/pin/?username=himangskalita&repo=taskio)](https://github.com/himangskalita/taksio)
 <br>
+
 ### 💻 Tech Stack & Skills:
 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge) ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
@@ -89,6 +90,9 @@
 <a href="https://www.codechef.com/users/himangskalita" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="codechef-logo"/></a>
 <a href="https://codeforces.com/profile/ghosling" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/HimangsKalita" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerearth.com/@himangskalita/" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-2C3454?logo=hackerearth&logoColor=fff&style=for-the-badge" /></a>
+<a href="https://www.geeksforgeeks.org/user/himangskalita/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=for-the-badge" /></a>
+<a href="https://takeuforward.org/profile/himangskalita" target="blank"><img align="center" src="https://img.shields.io/badge/TUF-D41F30?logo=tuf&logoColor=fff&style=for-the-badge" /></a>
 </p>
 
 <br>
@@ -99,7 +103,7 @@
 
 <br>
 
-### 💻 Laptop &  🚀 Softwares in use
+### 💻 Laptop & 🚀 Software in use
 
 <!-- [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)[![Acer Nitro 5 2019](https://img.shields.io/badge/Acer_Nitro_5_2019-FF091A?style=for-the-badge&logo=windows&logoColor=white)](https://www.acer.com/ca-en/laptops/nitro/nitro-5/pdp/NH.Q59AA.002)
 [![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)[![Core i5 9th 9300H](https://img.shields.io/badge/Core_i5_9th_9300H-3797DD?style=for-the-badge&logo=windows&logoColor=black)](https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html)
@@ -112,13 +116,11 @@
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)[![GNU Bash](https://img.shields.io/badge/GNOME_Terminal-4b4b4b?style=for-the-badge&logo=windows&logoColor=black)](https://wiki.gnome.org/Apps/Terminal) -->
 
-
-| 💻 Laptop                                                                                                                                                                                             | 🚀 Software                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Laptop:** [![Acer Nitro 5 2019](https://img.shields.io/badge/Acer_Nitro_5_2019-FF091A?style=for-the-badge&logo=windows&logoColor=white)](https://www.acer.com/ca-en/laptops/nitro/nitro-5/pdp/NH.Q59AA.002) | **OS:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/) |
-| **CPU:** &nbsp; &nbsp; [![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)[![Core i5 9th 9300H](https://img.shields.io/badge/Core_i5_9300H-3797DD?style=for-the-badge&logo=windows&logoColor=black)](https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html) | **Text Editor:** ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge) |
-| **GPU:** &nbsp; &nbsp; [![Nvidia](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=intel&logoColor=white)](https://www.nvidia.com/)[![GTX 1650](https://img.shields.io/badge/GTX_1650-8CBD24?style=for-the-badge&logo=windows&logoColor=black)](https://www.techpowerup.com/gpu-specs/geforce-gtx-1650.c3366) |                                                                                          **Terminal:** &nbsp; &nbsp; [![GNU Bash](https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)[![GNOME Terminal](https://img.shields.io/badge/GNOME_TERMINAL-4b4b4b?style=for-the-badge&logo=windows&logoColor=black)](https://wiki.gnome.org/Apps/Terminal)          |
-
+| 💻 Laptop                                                                                                                                                                                                                                                                                                                                                                                            | 🚀 Software                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Laptop:** [![Acer Nitro 5 2019](https://img.shields.io/badge/Acer_Nitro_5_2019-FF091A?style=for-the-badge&logo=windows&logoColor=white)](https://www.acer.com/ca-en/laptops/nitro/nitro-5/pdp/NH.Q59AA.002)                                                                                                                                                                                        | **OS:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)                                                                                                                                           |
+| **CPU:** &nbsp; &nbsp; [![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com)[![Core i5 9th 9300H](https://img.shields.io/badge/Core_i5_9300H-3797DD?style=for-the-badge&logo=windows&logoColor=black)](https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html) | **Text Editor:** ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge)                                                                                                                                                                                                 |
+| **GPU:** &nbsp; &nbsp; [![Nvidia](https://img.shields.io/badge/Nvidia-76B900?style=for-the-badge&logo=intel&logoColor=white)](https://www.nvidia.com/)[![GTX 1650](https://img.shields.io/badge/GTX_1650-8CBD24?style=for-the-badge&logo=windows&logoColor=black)](https://www.techpowerup.com/gpu-specs/geforce-gtx-1650.c3366)                                                                     | **Terminal:** &nbsp; &nbsp; [![GNU Bash](https://img.shields.io/badge/GNU_Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)[![GNOME Terminal](https://img.shields.io/badge/GNOME_TERMINAL-4b4b4b?style=for-the-badge&logo=windows&logoColor=black)](https://wiki.gnome.org/Apps/Terminal) |
 
 <br>
 <hr>
@@ -133,9 +135,9 @@
 
 ![himangskalita's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himangskalita&theme=default&show_icons=true&hide_border=false&layout=compact) -->
 
-| ![himangskalita Github Stats](https://github-readme-stats.vercel.app/api?username=himangskalita&show_icons=true&theme=default)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangskalita&langs_count=8&theme=default&layout=compact)          |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![himangskalita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himangskalita&theme=default) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himangskalita&theme=default)  |
+| ![himangskalita Github Stats](https://github-readme-stats.vercel.app/api?username=himangskalita&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangskalita&langs_count=8&theme=default&layout=compact) |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ![himangskalita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himangskalita&theme=default)             | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himangskalita&theme=default)        |
 
 <br>
 
@@ -145,6 +147,7 @@
 <br>
 
 ### 💳 Github Profile Summary Card
+
 <br>
 
 ![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himangskalita&theme=github)

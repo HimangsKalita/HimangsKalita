@@ -60,7 +60,7 @@
 
 ### 💫 About Me:
 
-- 🛠️ I’m currently building: **[Taskio](https://github.com/himangsKalita/taskio)**.
+- 🛠️ I’m currently building: **[Newsly](https://github.com/himangsKalita/newsly)**.
 - 💻 Currently learning: **Android Development**.
 - 🤝 Looking to collaborate on **Android projects**.
 - 📚 Eager to learn new **frameworks** and **languages**.
@@ -72,14 +72,14 @@
 
 <br>
 
-### 👨‍💻 Currently Building Taskio: Todo App
+### 👨‍💻 Currently Building Newsly: News App
 
-[![Taskio](https://github-readme-stats.vercel.app/api/pin/?username=himangskalita&repo=taskio)](https://github.com/himangskalita/taksio)
+[![Newsly](https://github-readme-stats.vercel.app/api/pin/?username=himangskalita&repo=newsly)](https://github.com/himangskalita/newsly)
 <br>
 
 ### 💻 Tech Stack & Skills:
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge) ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge) ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 <br>
 
